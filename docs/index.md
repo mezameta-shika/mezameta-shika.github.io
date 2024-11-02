@@ -1,6 +1,6 @@
 ## Hello github
 
-[about]("/about")
+[about](about)
 
 
 

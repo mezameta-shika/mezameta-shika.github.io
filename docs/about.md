@@ -5,4 +5,4 @@ permalink: /about
 ---
 ### watashi??
 :scared:
-[home]("/")
+[home](/)
